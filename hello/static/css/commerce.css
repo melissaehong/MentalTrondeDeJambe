@@ -1160,7 +1160,7 @@ p.demo_store {
 }
 .commerce ul.products li.product figure .product-wrap .shop-loop-actions .button.add_to_cart_button.loading:before {
   content: " ";
-  background: url(../images/ajax-loader.gif) scroll center center no-repeat #ffffff;
+  background: url(../images/AjaxLoader.gif) scroll center center no-repeat #ffffff;
 }
 .commerce ul.products li.product figure .product-wrap .shop-loop-actions .button.add_to_cart_button.added:before {
   content: "\f00c";
@@ -1215,7 +1215,7 @@ p.demo_store {
 }
 .commerce ul.products li.product figure .product-wrap .shop-loop-actions .shop-loop-quickview.loading:before {
   content: " ";
-  background: url(../images/ajax-loader.gif) scroll center center no-repeat #ffffff;
+  background: url(../images/AjaxLoader.gif) scroll center center no-repeat #ffffff;
 }
 .commerce ul.products li.product figure .product-wrap .shop-loop-actions .shop-loop-quickview:before {
   color: #ffffff;
@@ -2991,7 +2991,7 @@ textarea.commerce form .form-row textarea {
   .commerce input.button.loading:before,
   .commerce #respond input#submit.loading:before,
   .commerce #content input.button.loading:before {
-    background-image: url(../images/ajax-loader@2x.gif);
+    background-image: url(../images/AjaxLoader.gif);
     background-size: 16px 16px;
   }
 }
