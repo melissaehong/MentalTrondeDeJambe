@@ -433,7 +433,7 @@
             play_btn.append('<i class="fa fa-play" ></i>');
             var volume_btn = controls.children('.mejs-volume-button');
             var track = $('<div class="mejs-track-container hidden-xs"></div>');
-            track.append('<a href="#" class="mejs-track-cover"><img src="../images/media-player/no-track-image.png"/></a><a hef="#" class="mejs-track-title"></a><span class="mejs-track-artist"></span>');
+            track.append('<a href="#" class="mejs-track-cover"><img src="../static/images/media-player/no-track-image.png"/></a><a hef="#" class="mejs-track-title"></a><span class="mejs-track-artist"></span>');
             track.appendTo(controls);
             var mejs_left = $('<div class="mejs-left-controls"></div>');
             mejs_left.appendTo(controls);
